@@ -1,1 +1,1 @@
-# pepo.repo
+# pepo.rep
